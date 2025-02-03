@@ -6,7 +6,6 @@ import io.cucumber.java.es.Dado;
 import io.cucumber.java.es.Y;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.WebDriver;
-
 import static com.nttdata.core.DriverManager.getDriver;
 
 public class ProductStepsDef {
